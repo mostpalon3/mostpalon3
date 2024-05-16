@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mostpalon3 // Sumit Sagar
 - 👀 I’m interested in photography , video editing, playing table tennis , listening to music
-- 🌱 I’m currently learning web devlopment , c++ , video editing , photoshop
+- 🌱 I’m currently learning web devlopment ,DSA in c++ , video editing , photoshop
 - 📫 How to reach me -- reach me at my email sumitsagar2612@gmail.com
 
 <!---
