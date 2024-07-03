@@ -3,7 +3,7 @@ Visitor count<br>
 <img src="https://profile-counter.glitch.me/mostpalon3/count.svg" />
 </p>
 <h1 align="center">Hi , I'm Sumit Sagar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskargubreley&label=Profile%20views&color=0 e75b6&style=flat" alt="sanskargubreley" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostpalon3&label=Profile%20views&color=0e75b6&style=flat" alt="mostpalon3" /> </p>
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d 0-c894383d35b4.gif">
 <p align="left"> <a href="https://twitter.com/gubreleysanskar" target="blank"><img src="https://img.shields.io/twitter/follow/gubreleysanskar?logo=twitter&style=for-the-badge" alt="gubreleysanskar" /></a> </p>
 - I’m currently learning ** Web development, DSA, Video Editing and UI/UX design**
