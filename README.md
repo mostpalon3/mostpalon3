@@ -7,7 +7,7 @@ Visitor count<br>
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d 0-c894383d35b4.gif">
 <p align="left"> <a href="https://twitter.com/gubreleysanskar" target="blank"><img src="https://img.shields.io/twitter/follow/gubreleysanskar?logo=twitter&style=for-the-badge" alt="gubreleysanskar" /></a> </p>
 - I’m currently learning ** Web development, DSA, Video Editing and UI/UX design**
-- All of my projects are available at [https://github.com/SanskarGubreley?tab=repositories](https://github.com/SanskarGubreley?tab =repositories)
+- All of my projects are available at [https://github.com/mostpalon3?tab=repositories]
 - Ask me about **Python, Javascript , DSA & Projects**
 - How to reach me **sumitsagar2612@gmail.com**
 <h3 align="left">Connect with me:</h3>
