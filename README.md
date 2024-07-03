@@ -19,7 +19,7 @@
 </p>
 <ul>
   <li>🌱 I’m currently learning ** Web development, DSA, Video Editing and UI/UX design</li>
-  <li>👨‍💻 All of my projects are available at <a href = "https://github.com/mostpalon3?tab=repositories" style = "text-descoration:none">
+  <li>👨‍💻 All of my projects are available at <a href = "https://github.com/mostpalon3?tab=repositories" style = "text-descoration:none;">
     GITHUB_repositories
   </a>
     </li>
