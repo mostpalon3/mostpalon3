@@ -30,7 +30,7 @@ Visitor count<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskargubreley&show_ic ons=true&locale=en&layout=compact" alt="sanskargubreley" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskargubreley&show_icons=true& locale=en" alt="sanskargubreley" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskargubreley&" alt="sanskargubreley" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&" alt="mostpalon3" /></p>
 
 <!---
 mostpalon3/mostpalon3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
