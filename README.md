@@ -13,8 +13,8 @@ Visitor count<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gubreleysanskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/i mages/icons/Social/twitter.svg" alt="gubreleysanskar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanskar-gubreley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/i mages/icons/Social/linked-in-alt.svg" alt="sanskar-gubreley" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sumitsagarrr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/i mages/icons/Social/instagram.svg" alt="sanskar_._" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sumit-sagar-8a8b39286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/i mages/icons/Social/linked-in-alt.svg" alt="sumit-sagar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sumitsagarrr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/i mages/icons/Social/instagram.svg" alt="sumitsagarrr" height="30" width="40" /></a>
 👋
 📫
 💬
