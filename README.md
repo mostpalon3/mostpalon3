@@ -5,7 +5,7 @@
 <h1 align="center">Hi , I'm Sumit Sagar</h1>
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=mostpalon3&label=Profile%20views&color=0 e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=mostpalon3&label=Profile%20views&color=0e75b6&style=flat"
     alt="mostpalon3"
   />
 </p>
@@ -19,8 +19,10 @@
 </p>
 <ul>
   <li>🌱 I’m currently learning ** Web development, DSA, Video Editing and UI/UX design</li>
-  <li>👨‍💻 All of my projects are available at
-    [https://github.com/mostpalon3?tab=repositories]</li>
+  <li>👨‍💻 All of my projects are available at <a href = "https://github.com/mostpalon3?tab=repositories" style = "text-descoration:none">
+    GITHUB_repositories
+  </a>
+    </li>
   <li>💬 Ask me about **Python,
     Javascript , DSA & Projects</li>
   <li>📫 How to reach me **sumitsagar2612@gmail.com**</li>
