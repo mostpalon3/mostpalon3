@@ -1,6 +1,6 @@
 <p align="center">
 Visitor count<br>
-<img src="https://profile-counter.glitch.me/SanskarGubreley/count.svg" />
+<img src="https://profile-counter.glitch.me/mostpalon3/count.svg" />
 </p>
 <h1 align="center">Hi , I'm Sumit Sagar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskargubreley&label=Profile%20views&color=0 e75b6&style=flat" alt="sanskargubreley" /> </p>
