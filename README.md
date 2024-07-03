@@ -38,15 +38,11 @@
   <a href="www.linkedin.com/in/sumit-sagar-8a8b39286" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/i mages/icons/Social/linked-in-alt.svg"
-      alt="sumit-sagar"
-      height="30"
-      width="40"
-  /></a>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-sagar" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sumitsagarrr/" target="_blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/i mages/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="sumitsagarrr"
       height="30"
       width="40"
