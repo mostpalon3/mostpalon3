@@ -146,13 +146,7 @@
     alt="mostpalon3"
   />
 </p>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mostpalon3&show_icons=true& locale=en"
-    alt="mostpalon3"
-  />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskargubreley&show_icons=true&locale=en" alt="sanskargubreley" /></p>
 
 <p>
   <img
