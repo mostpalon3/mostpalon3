@@ -11,7 +11,7 @@
 </p>
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 <p align="left">
-  <a href="www.linkedin.com/in/sumit-sagar-8a8b39286" target="blank"
+  <a href="https://www.linkedin.com/in/sumit-sagar-8a8b39286/" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/sumitsagar?logo=twitter&style=for-the-badge"
       alt="mostpalon3"
@@ -29,7 +29,7 @@
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/sumit-sagar-8a8b39286" target="blank"
+  <a href="https://www.linkedin.com/in/sumit-sagar-8a8b39286/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-sagar" height="30" width="40" /></a>
