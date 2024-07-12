@@ -19,15 +19,12 @@
   /></a>
 </p>
 <ul>
-  <li>🌱 I’m currently learning ** Web development, DSA, Video Editing and UI/UX design</li>
-  <li>👨‍💻 All of my projects are available at <a href = "https://github.com/mostpalon3?tab=repositories">
-    GITHUB_repositories
-  </a>
-    </li>
-  <li>💬 Ask me about **Python,
-    Javascript , DSA & Projects</li>
-  <li>📫 How to reach me **sumitsagar2612@gmail.com**</li>
+  <li>🌱 <strong>Learning and Growing:</strong> Currently enhancing my skills in Web Development, Data Structures and Algorithms (DSA), Video Editing, and UI/UX Design.</li>
+  <li>👨‍💻 <strong>Project Showcase:</strong> Explore all my projects on my <a href="https://github.com/mostpalon3?tab=repositories">GitHub repositories</a>.</li>
+  <li>💬 <strong>Let's Connect:</strong> Feel free to ask me about Python, JavaScript, DSA, and any of my projects.</li>
+  <li>📫 <strong>Contact Me:</strong> Reach out via email at <a href="mailto:sumitsagar2612@gmail.com">sumitsagar2612@gmail.com</a>.</li>
 </ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sumit-sagar-8a8b39286/" target="blank"
