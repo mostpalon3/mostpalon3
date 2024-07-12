@@ -6,10 +6,13 @@
 <h1 align="center">Hi , I'm Sumit Sagar</h1>
 
 <!--   GitHub stats graph -->
+
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![mostpalon3's github activity graph](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake.svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="left">
   <img
