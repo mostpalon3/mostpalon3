@@ -4,6 +4,13 @@
   <img src="https://profile-counter.glitch.me/mostpalon3/count.svg" />
 </p>
 <h1 align="center">Hi , I'm Sumit Sagar</h1>
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![mostpalon3's github activity graph](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake.svg)
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=mostpalon3&label=Profile%20views&color=0e75b6&style=flat"
@@ -18,12 +25,15 @@
       alt="mostpalon3"
   /></a>
 </p>
+<section>
+  <h3 align="left">Skill Set:</h3>
 <ul>
   <li>🌱 <strong>Learning and Growing:</strong> Currently enhancing my skills in Web Development, Data Structures and Algorithms (DSA), Video Editing, and UI/UX Design.</li>
   <li>👨‍💻 <strong>Project Showcase:</strong> Explore all my projects on my <a href="https://github.com/mostpalon3?tab=repositories">GitHub repositories</a>.</li>
   <li>💬 <strong>Let's Connect:</strong> Feel free to ask me about Python, JavaScript, DSA, and any of my projects.</li>
   <li>📫 <strong>Contact Me:</strong> Reach out via email at <a href="mailto:sumitsagar2612@gmail.com">sumitsagar2612@gmail.com</a>.</li>
 </ul>
+</section>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
