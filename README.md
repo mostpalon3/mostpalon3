@@ -60,7 +60,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostpalon3&show_icons=true&locale=en&layout=compact" alt="mostpalon3" /></p>
 <p>
   <img
-    align="center"
+    align="center" justify="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&"
     alt="mostpalon3"
   />
