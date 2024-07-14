@@ -56,7 +56,7 @@ ___
 </p><br/>
 
 
-## Skill set:
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="18"> Skill set:</h2>
 
 #### Languages:
 <p align="left">
@@ -73,10 +73,10 @@ ___
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-#
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="25"> Github Statistics</h2>
  <p align-content="center">
 <span>&nbsp;<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=mostpalon3&show_icons=true&locale=en" alt="mostpalon3" /></span>
-<span><img align="center"justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostpalon3&show_icons=true&locale=en&layout=compact" alt="mostpalon3" width=41.2% /></span>
+<span><img align="center"justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostpalon3&show_icons=true&locale=en&layout=compact" alt="mostpalon3" width="352" /></span>
 <br/><br/>
 <span>
   <img
@@ -84,7 +84,7 @@ ___
     justify="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&"
     alt="mostpalon3"
-    width=60%
+    width="500"
   />
 </span>
 </p>
