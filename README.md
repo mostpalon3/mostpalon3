@@ -29,7 +29,7 @@ ___
   /></a>
 </p>
 <section>
-  <h3 align="left">Skill Set:</h3>
+  <h3 align="left">About me:</h3>
 <ul>
   <li>🌱 <strong>Learning and Growing:</strong> Currently enhancing my skills in Web Development, Data Structures and Algorithms (DSA), Video Editing, and UI/UX Design.</li>
   <li>👨‍💻 <strong>Project Showcase:</strong> Explore all my projects on my <a href="https://github.com/mostpalon3?tab=repositories">GitHub repositories</a>.</li>
@@ -39,7 +39,7 @@ ___
 </section>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sumit-sagar-8a8b39286/" target="blank"
     ><img
@@ -53,10 +53,27 @@ ___
       height="30"
       width="40"
   /></a>
+</p><br/>
+
+
+## Skill set:
+
+#### Languages:
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="46" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> </p><p><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
- <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/> </a></p>
+
+#### Library & Frameworks:
+<p align="left">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="46" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+</p>
+
+#### Tools:
+<p align="left">
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/></a>
+</p>
+
+#
  <p align-content="center">
 <span>&nbsp;<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=mostpalon3&show_icons=true&locale=en" alt="mostpalon3" /></span>
 <span><img align="center"justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostpalon3&show_icons=true&locale=en&layout=compact" alt="mostpalon3" width=41.2% /></span>
