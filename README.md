@@ -6,7 +6,6 @@
 <h1 align="center">Hi , I'm Sumit Sagar</h1><br/>
 
 <!--   GitHub stats graph -->
-![](https://raw.githubusercontent.com/mostpalon3/mostpalon3/main/react%20animation.gif)
 
  ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="25"> Github Activity Graph:
 
@@ -66,7 +65,7 @@ ___
 
 #### Library & Frameworks:
 <p align="left">
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="46" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mostpalon3/mostpalon3/main/react%20animation.gif" alt="react" width="60" height="60"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="46" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="react" width="40" height="40"/></a>
 </p>
 
 #### Tools:
