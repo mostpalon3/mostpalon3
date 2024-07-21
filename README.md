@@ -11,7 +11,7 @@
 
 <!--   green snake -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://profile-readme-generator.com/assets/snake.svg)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ___
 <p align="left">
@@ -76,19 +76,39 @@ ___
 
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="25"> Github Statistics:</h2>
  <p align-content="center">
-<span>&nbsp;<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=mostpalon3&show_icons=true&locale=en" alt="mostpalon3" /></span>
-<span><img align="center"justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostpalon3&show_icons=true&locale=en&layout=compact" alt="mostpalon3" width="352" /></span>
+<span>&nbsp;<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=mostpalon3" alt="mostpalon3" /></span>
+<span><img align="center"justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false&username=mostpalon3" alt="mostpalon3" width="352.2" /></span>
 <br/><br/>
 <span>
   <img
     align="center"
     justify="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&theme=dark"
     alt="mostpalon3"
     width="500"
   />
 </span>
 </p>
+
+#
+
+``` 
+const class Life {
+    skills = (consistency) => {
+        // 🚀 Striving for perfection, one line of code at a time.
+        while (codeQuality < perfection) {
+            codeQuality++; // Incrementing code quality 🔝
+        }
+
+        // 🌟 Lifelong coder on a journey of constant improvement.
+        while (alive) {
+            eat();  // Fuel for the coding engine 🍕
+            sleep();  // Recharging for epic code adventures 💤
+            code();  // Crafting software magic ✨
+        }
+        // ~S
+    }
+```
 
 <!---
     mostpalon3/mostpalon3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
