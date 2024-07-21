@@ -93,20 +93,43 @@ ___
 #
 
 ``` 
-const class Life {
-    skills = (consistency) => {
+class Life {
+    constructor() {
+        this.codeQuality = 0;
+        this.perfection = 99.99; 
+        this.alive = true;
+    }
+
+    eat() {
+        console.log("Eating to fuel the coding engine 🍕");
+    }
+
+    sleep() {
+        console.log("Recharging for epic code adventures 💤");
+    }
+
+    code() {
+        console.log("Crafting software magic ✨");
+    }
+
+    skills(consistency) {
         // 🚀 Striving for perfection, one line of code at a time.
-        while (codeQuality < perfection) {
-            codeQuality++; // Incrementing code quality 🔝
+        while (this.codeQuality < this.perfection) {
+            this.codeQuality++; // Incrementing code quality 🔝
         }
 
         // 🌟 Lifelong coder on a journey of constant improvement.
-        while (alive) {
-            eat();  // Fuel for the coding engine 🍕
-            sleep();  // Recharging for epic code adventures 💤
-            code();  // Crafting software magic ✨
+        while (this.alive) {
+            this.eat();
+            this.sleep();
+            this.code();
         }
-        // ~S
+    }
+}
+
+const myLife = new Life();
+myLife.skills();
+
     }
 ```
 
