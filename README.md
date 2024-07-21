@@ -11,7 +11,7 @@
 
 <!--   green snake -->
 
-![github contribution grid snake animation](https://profile-readme-generator.com/assets/snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ___
 <p align="left">
