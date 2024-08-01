@@ -53,6 +53,14 @@ ___
       height="30"
       width="40"
   /></a>
+   <a href="mailto:sumitsagar2612@gmail.com" target="_blank"
+    ><img
+      align="center"
+      src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png"
+      alt="sumitsagarrr"
+      height="29"
+      width="35"
+  /></a>
 </p><br/>
 
 
@@ -64,8 +72,14 @@ ___
 </p>
 
 #### Library & Frameworks:
+
 <p align="left">
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="46" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mostpalon3/mostpalon3/blob/main/react%20animation.gif" alt="react" width="50" height="50"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="40"/></a>&nbsp;<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJS" width="43" height="42"/></a>&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>&nbsp;<a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="NodeJS" width="40" height="40"/></a>
+</p>
+
+#### Databases:
+<p align="left">
+  <a href="https://www.mongodb.com/" rel="noreferrer"><img src="https://camo.githubusercontent.com/c0656fe26e0bd17784e371c880b6007a53afa88b8cc9e29f8d48f8b8c3ca5c95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" alt="MongoDB" width="40" height="40"/></a>
 </p>
 
 #### Tools:
