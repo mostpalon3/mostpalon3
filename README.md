@@ -91,16 +91,15 @@ ___
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="25"> Github Statistics:</h2>
  <p align-content="center">
 <span>&nbsp;<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=mostpalon3" alt="mostpalon3" /></span>
-<span><img align="center"justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false&username=mostpalon3" alt="mostpalon3" width="352.2" /></span>
-<br/><br/>
+<span><img align="center"justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false&username=mostpalon3" alt="mostpalon3" width="352.2" /></span><br><br>
 <span>
   <img
-    align="center"
-    justify="center"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&theme=dark"
     alt="mostpalon3"
     width="500"
   />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostpalon3&theme=nord_dark&utcOffset=5.30&hide_border=false&border_radius=5&order=3" width="340" alt="productive time graph"/>
 </span>
 </p>
 
