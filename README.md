@@ -170,7 +170,7 @@ console.log('🚀 Ready to create amazing things!');
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   <br><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k53qemwkj6q2yezs5ywxqedf7y&count=1" alt="Spotify Recently Played"/>
+<!--   <img src="https://spotify-recently-played-readme.vercel.app/api?user=7gh6uya175fx4pwn12xpnlikf&count=1" alt="Spotify Recently Played"/> -->
   
   <h3>💖 Thanks for visiting! Let's build something amazing together.</h3>
   
