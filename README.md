@@ -98,7 +98,9 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mostpalon3&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mostpalon3&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/>
+  <a href="https://github.com/mostpalon3">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostpalon3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" width="45%" />
+</a>
     <img
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&theme=dark"
@@ -109,7 +111,7 @@
   <br><br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostpalon3&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostpalon3&theme=radical&utcOffset=5.30" width="49%" alt="Productive Time"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostpalon3&theme=radical&utcOffset=5.30" width="45%" alt="Productive Time"/>
 </div>
 
 ### 📈 Contribution Graph
@@ -128,43 +130,27 @@ class FullStackDeveloper {
         this.name = 'Sumit Sagar';
         this.role = 'Full Stack Developer';
         this.languages = ['JavaScript', 'Python', 'Java', 'C++'];
-        this.challenges = 0;
-        this.coffeeCups = 0;
+        this.challenges = this.coffeeCups = 0;
     }
 
     solveChallenge(challenge) {
-        while (challenge.isSolved === false) {
-            this.drinkCoffee();
-            this.code();
-            this.debug();
-            this.challenges++;
-        }
-        return '✨ Challenge completed! ✨';
+        while (!challenge.isSolved) this.drinkCoffee();
+        return '✨ Challenge done!';
     }
 
     drinkCoffee() {
-        this.coffeeCups++;
-        return '☕ Energy recharged!';
+        return `☕ (${++this.coffeeCups})`;
     }
 
-    async learnNewTechnology(technology) {
-        await this.research(technology);
-        await this.practice(technology);
-        await this.build(technology);
-        return `🎓 Now skilled in ${technology}`;
+    async learnNewTechnology(tech) {
+        await Promise.all([this.research(tech), this.practice(tech), this.build(tech)]);
+        return `🎓 Skilled in ${tech}`;
     }
 
     getLifeBalance() {
-        return {
-            code: '💻 Code with passion',
-            learn: '📚 Learn continuously',
-            grow: '🌱 Grow exponentially',
-            repeat: '🔄 Repeat'
-        };
+        return { code: '💻', learn: '📚', grow: '🌱', repeat: '🔄' };
     }
 }
-
-const sumit = new FullStackDeveloper();
 console.log('🚀 Ready to create amazing things!');
 ```
 
@@ -174,10 +160,4 @@ console.log('🚀 Ready to create amazing things!');
 <!--   <img src="https://spotify-recently-played-readme.vercel.app/api?user=7gh6uya175fx4pwn12xpnlikf&count=1" alt="Spotify Recently Played"/> -->
   
   <h3>💖 Thanks for visiting! Let's build something amazing together.</h3>
-
-<!-- <p align="center"> -->
-<!--   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,cpp,git,figma,express,&perline=5" /> -->
-<!-- </p> -->
-  
-  ![](https://hit.yhype.me/github/profile?user_id=mostpalon3)
 </div>
