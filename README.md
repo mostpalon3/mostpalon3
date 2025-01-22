@@ -35,7 +35,7 @@ ___
   <li>👨‍💻 <strong>Project Showcase:</strong> Explore all my projects on my <a href="https://github.com/mostpalon3?tab=repositories">GitHub repositories</a>.</li>
   <li>💬 <strong>Let's Connect:</strong> Feel free to ask me about Python, JavaScript, DSA, and any of my projects.</li>
   <li>📫 <strong>Contact Me:</strong> Reach out via email at <a href="mailto:sumitsagar2612@gmail.com">sumitsagar2612@gmail.com</a>.</li>
-  <li>💼 <strong>Checkout my portfolio here <a href="https://sumitsagar-pf.netlify.app/" target="_blank">Portfolio</a>.</li>
+  <li>💼 <strong>Checkout my portfolio here <a href="https://sumitsagar-pf.netlify.app/" target="blank">Portfolio</a>.</li>
 </ul>
 </section>
 <br/>
