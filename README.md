@@ -35,6 +35,7 @@ ___
   <li>👨‍💻 <strong>Project Showcase:</strong> Explore all my projects on my <a href="https://github.com/mostpalon3?tab=repositories">GitHub repositories</a>.</li>
   <li>💬 <strong>Let's Connect:</strong> Feel free to ask me about Python, JavaScript, DSA, and any of my projects.</li>
   <li>📫 <strong>Contact Me:</strong> Reach out via email at <a href="mailto:sumitsagar2612@gmail.com">sumitsagar2612@gmail.com</a>.</li>
+  <li>📫 <strong>Checkout my portfolio here <a href="https://sumitsagar-pf.netlify.app/">Portfolio</a>.</li>
 </ul>
 </section>
 <br/>
@@ -74,8 +75,8 @@ ___
 #### Library & Frameworks:
 
 <p align="left">
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45" height="40"/></a>&nbsp;<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/240px-Logo_jasmine.svg.png" alt="Jasmine" width="40" height="40"/></a>&nbsp;<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJS" width="43" height="42"/></a>&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>&nbsp;<a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="NodeJS" width="40" height="40"/></a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threeJS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="45" height="40"/></a>&nbsp;<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/240px-Logo_jasmine.svg.png" alt="Jasmine" width="40" height="40"/></a>&nbsp;<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJS" width="43" height="42"/></a>&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>&nbsp;<a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="NodeJS" width="40" height="40"/></a><a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threeJS" width="40" height="40"/></a>&nbsp;<a href="https://motion.dev/docs/react-gestures" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer motion" width="40" height="40"/></a>&nbsp;<a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="40"/></a>
+  
 </p>
 
 #### Databases:
@@ -88,7 +89,7 @@ ___
 <p align="left">
   <a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="38" height="38"/></a>
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" width="40" height="40"/></a>
 </p>
 
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="25"> Github Statistics:</h2>
