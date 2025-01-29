@@ -28,31 +28,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=500&lines=Always+Learning%2C+Always+Growing; /Passionate+about+Creating+Digital+Solutions;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
-
 ## 🚀 About Me
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px"> I'm a **Full Stack Developer** who loves building web applications and exploring new technologies.
 
 - 🔭 Currently working on **Innovative Web Projects**
-- 🌱 Learning **DSA & Blockchain** & **System Design**
+- 🌱 Learning **DSA & Web3/Blockchain**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development**, **DSA**,**Web Development**, or **Tech Career**
+- 💬 Ask me about **Web Development**, **DSA**, or **Tech Career**
 - ⚡ Fun fact: I can debug code faster with coffee ☕
 - 🎯 Goal: Contribute more to Open Source
 - 📫 Reach me at: [sumitsagar2612@gmail.com](mailto:sumitsagar2612@gmail.com)
 - 💼 Portfolio: [Dive here!](https://sumitsagar-pf.netlify.app/)
-
-<details>
-<summary>🎯 More About Me</summary>
-<br>
-  
-- 🎨 I enjoy creating digital products with intuitive user experiences
-- 📚 Always reading tech blogs and documentation and some times fiction!
-- 🎮 Occasional gaming to refresh my mind
-- 🎵 Code with music = Productivity++
-- 🌟 Believe in trying, until you write the right code.
-</details>
 
 ## 🛠️ Tech Stack
 
@@ -96,8 +85,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostpalon3&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
-  <br><br>
+<br>
   <a href="https://github.com/mostpalon3">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostpalon3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" width="45%" />
 </a>
