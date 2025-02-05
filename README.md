@@ -93,7 +93,7 @@
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&theme=dark"
     alt="mostpalon3"
-    width="500"
+    width="450"
   />
   
   <br><br>
