@@ -147,8 +147,14 @@ console.log('🚀 Ready to create amazing things!');
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  <br><br>
+  <br>
 <!--   <img src="https://spotify-recently-played-readme.vercel.app/api?user=7gh6uya175fx4pwn12xpnlikf&count=1" alt="Spotify Recently Played"/> -->
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mostpalon3" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210 ">
+  </a>
+</p>
   
   <div align="center">
   <sub>⭐ Star this repo if you found it interesting! | 🍴 Fork it if you want to make it your own!</sub>
