@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="cover_img"/>
 </p>
@@ -46,15 +47,15 @@
 ## 🛠️ Tech Stack
 
 #### Languages:
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="40"/></a>
+<div align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/></a>
   <a href="https://docs.oracle.com/en/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-</p>
+</div>
 
 #### Library & Frameworks:
 <p align="left">
@@ -62,7 +63,8 @@
   <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/></a>
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/240px-Logo_jasmine.svg.png" alt="Jasmine" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJS" width="43" height="42"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40" height="40"/></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=next" alt="NextJS" width="40" height="40"/></a>
   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="NodeJS" width="40" height="40"/></a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" alt="threeJS" width="40" height="40"/></a>
   <a href="https://motion.dev/docs/react-gestures" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer motion" width="40" height="40"/></a>
@@ -79,39 +81,39 @@
 <p align="left">
   <a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="38" height="38"/></a>
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/></a>
+    <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
 </p>
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-<br>
-  <a href="https://github.com/mostpalon3">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostpalon3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" width="45%" />
-</a>
-    <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&theme=dark"
-    alt="mostpalon3"
-    width="450"
-  />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostpalon3&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostpalon3&theme=radical&utcOffset=5.30" width="45%" alt="Productive Time"/>
-</div>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostpalon3&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostpalon3&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostpalon3&theme=tokyonight&utcOffset=5.5" width="48%"/>
+</p>
+
+---
 
 ### 📈 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mostpalon3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🤝 Connect with me 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumit-sagar-8a8b39286/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-sagar" height="30" width="40"/></a>
-  <a href="https://www.instagram.com/sumitsagarrr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitsagarrr" height="30" width="40"/></a>
-  <a href="mailto:sumitsagar2612@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="sumitsagarrr" height="29" width="35"/></a>
-</p>
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="left"><a href="https://www.linkedin.com/in/sumit-sagar-8a8b39286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a><a href="https://www.instagram.com/sumitsagarrr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/></a><a href="mailto:sumitsagar2612@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/></a><a href="https://sumit-sagar.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000" alt="Portfolio"/></a>
+
+  ---
 
 ```javascript
 class FullStackDeveloper {
@@ -148,5 +150,7 @@ console.log('🚀 Ready to create amazing things!');
   <br><br>
 <!--   <img src="https://spotify-recently-played-readme.vercel.app/api?user=7gh6uya175fx4pwn12xpnlikf&count=1" alt="Spotify Recently Played"/> -->
   
-  <h3>💖 Thanks for visiting! Let's build something amazing together.</h3>
+  <div align="center">
+  <sub>⭐ Star this repo if you found it interesting! | 🍴 Fork it if you want to make it your own!</sub>
+</div>
 </div>
