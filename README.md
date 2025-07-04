@@ -52,9 +52,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/></a>
-  <a href="https://docs.oracle.com/en/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
 </div>
 
 #### Library & Frameworks:
@@ -68,20 +68,21 @@
   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="NodeJS" width="40" height="40"/></a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" alt="threeJS" width="40" height="40"/></a>
   <a href="https://motion.dev/docs/react-gestures" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer motion" width="40" height="40"/></a>
-  <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="40"/></a>
+  <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="38"/></a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/logos/zod.png" alt="zod" width="40" height="40"/></a>
 </p>
 
 #### Databases:
 <p align="left">
   <a href="https://www.mongodb.com/" rel="noreferrer"><img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
 </p>
 
 #### Tools:
 <p align="left">
-  <a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="38" height="38"/></a>
+  <a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/></a>
     <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
