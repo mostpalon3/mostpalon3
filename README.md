@@ -159,6 +159,8 @@ console.log('🚀 Ready to create amazing things!');
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210 ">
   </a>
 </p>
+
+<img src="/image.png" align="center">
   
   <div align="center">
   <sub>⭐ Star this repo if you found it interesting! | 🍴 Fork it if you want to make it your own!</sub>
