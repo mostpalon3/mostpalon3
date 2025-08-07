@@ -97,7 +97,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostpalon3&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3" width="48%"/>
 </p>
 
 <p align="center">
