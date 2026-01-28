@@ -62,10 +62,10 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/></a>
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/240px-Logo_jasmine.svg.png" alt="Jasmine" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="ExpressJS" width="43" height="42"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" alt="ExpressJS" width="43" height="42"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40" height="40"/></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=next" alt="NextJS" width="40" height="40"/></a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="NodeJS" width="40" height="40"/></a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40"/></a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" alt="threeJS" width="40" height="40"/></a>
   <a href="https://motion.dev/docs/react-gestures" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer motion" width="40" height="40"/></a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="38"/></a>
@@ -74,7 +74,7 @@
 
 #### Databases:
 <p align="left">
-  <a href="https://www.mongodb.com/" rel="noreferrer"><img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
