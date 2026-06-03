@@ -6,9 +6,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
   
-  <p align="center">
+<p align="center">
     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/mostpalon3/count.svg" />
+    <img src="https://komarev.com/ghpvc/?username=mostpalon3&style=flat-square&color=2C9ECF" alt="Profile Views"/>
   </p>
 
   <!-- Snake animation -->
@@ -36,7 +36,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px"> I'm a **Full Stack Developer** who loves building web applications and exploring new technologies.
 
 - 🔭 Currently working on **Innovative Web Projects**
-- 🌱 Learning **DSA & Web3/Blockchain**
+- 🌱 Learning **DSA, Cybersecurity & Devops**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **DSA**, or **Tech Career**
 - ⚡ Fun fact: I can debug code faster with coffee ☕
@@ -53,6 +53,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/></a>
+  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/></a>
   <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
 </div>
@@ -61,7 +62,6 @@
 <p align="left">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/240px-Logo_jasmine.svg.png" alt="Jasmine" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" alt="ExpressJS" width="43" height="42"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40" height="40"/></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=next" alt="NextJS" width="40" height="40"/></a>
@@ -77,6 +77,7 @@
   <a href="https://www.mongodb.com/" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
 </p>
 
@@ -85,10 +86,15 @@
   <a href="https://help.figma.com/hc/en-us/categories/360002051613-Get-started" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/></a>
     <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></a>
+  <a href="https://linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/></a>
 </p>
 
 ---
@@ -97,12 +103,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostpalon3&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostpalon3" width="48%"/>
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mostpalon3&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostpalon3&layout=compact&theme=tokyonight" width="48%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostpalon3&theme=tokyonight&utcOffset=5.5" width="48%"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostpalon3&theme=tokyonight" width="48%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostpalon3&theme=tokyonight&utcOffset=5.5" width="48%"/>
 </p>
 
 ---
